@@ -21,7 +21,7 @@ The [Safara](https://safara.travel) engineering hiring process is broken down in
 ## Take Home Instructions
 
 1. Navigate to your problem set most appropriate for you and your role.
-    * [backend](backend/readme.md)
+    * [backend](backend/README.md)
 
 2. Read the prompt carefully, you can ask any clarifying questions by emailing take-home@safara.travel and we will try to respond within a buisness day.
 
