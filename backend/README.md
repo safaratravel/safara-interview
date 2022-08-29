@@ -1,7 +1,7 @@
 
 # Queue Service
 
-Create a simple backend queue service. Queue consumers should be able to create a queue, send a message to the queue, receive a message to the queue and tell the queue it’s done processing and to delete the message. Unlike a pub/sub model, end users of this queue should be responsible for receiving and deleting messages, using polling or another alternative.
+Create a simple backend queue service. Queue consumers should be able to create a queue, send a message to the queue, receive a message to the queue and tell the queue it’s done and to delete the message. Unlike a pub/sub model, end users of this queue should be responsible for receiving and deleting messages, using polling or another alternative.
 
 This should be a web server that exposes the following 4 methods:
 
