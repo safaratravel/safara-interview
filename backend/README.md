@@ -16,5 +16,5 @@ This should be a web server that exposes the following 4 methods:
 Use any languages, libraries, or frameworks, except for the queue itself which should be mostly your own invention.
 
 Please additionally include in your submission:
-* Readme, including what you would have done if you had more time.
+* README.md, including what you would have done if you had more time and how to run and test your system.
 * Unit tests.
