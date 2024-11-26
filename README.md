@@ -1,4 +1,4 @@
-![safara logo]([https://app.safara.com/static/logo.svg](https://app.safara.com/static/logo.svg))
+# Safara
 
 For open positions, visit <https://angel.co/safara>
 
