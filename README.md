@@ -1,4 +1,4 @@
-![safara logo](https://app.safara.com/static/logo-black.svg)
+![safara logo]([https://app.safara.com/static/logo-black.svg](https://app.safara.com/static/logo.svg))
 
 For open positions, visit <https://angel.co/safara>
 
@@ -6,7 +6,7 @@ For open positions, visit <https://angel.co/safara>
 
 # Hiring @ Safara
 
-The [Safara](https://safara.travel) engineering hiring process is broken down into 3 steps: 
+The [Safara](https://safara.com) engineering hiring process is broken down into 3 steps: 
 
 1. Introduction call with the hiring manager.
 2. Time boxed (60 minute) take home assessment and review.
